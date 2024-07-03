@@ -1,0 +1,59 @@
+.new {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    column-gap: 1em;
+    row-gap: 1em;
+    font-family: "Merriweather", serif;
+    font-weight: 150;
+    font-style: normal;
+    line-height: 40px;
+}
+.alignleft {
+    margin-left: 170px;
+    margin-right: 170px;
+}
+.alignright {
+    list-style-type: circle ;
+}
+
+.merriweather-light {
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  
+  .merriweather-regular {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .merriweather-regular-italic {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  .slabo-27px-regular  {
+    font-family: "Slabo 27px", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+ 
+@media(max-width:670px){
+  .alignleft{
+    margin-left: 90px;
+    margin-right: 90px;
+    list-style:disc; 
+  }
+}
+@media(max-width:510px){
+  .alignright {
+    font-size: 15px;
+  }
+  .alignleft{
+    margin-left: 20px;
+    margin-right: 20px;
+    list-style:disc; 
+}}
