@@ -1,6 +1,5 @@
-![Stars Background](https://github.com/FallenOw1/FallenOw1.github.io/blob/main/Assets/star.jpg?raw=true)
-<img src="https://github.com/FallenOw1/FallenOw1.github.io/blob/main/Assets/star.jpg?raw=true" alt="Stars Header" style="width: 100%; height: auto;"/>
-<img src="https://github.com/FallenOw1/FallenOw1.github.io/blob/main/Assets/star.jpg?raw=true" alt="Stars Header" style="width: 100%; height: auto;"/>
+![Stars Header](https://github.com/FallenOw1/FallenOw1.github.io/blob/main/Assets/star.jpg?raw=true)
+
 # 👨‍💻 Nothing to see here folks, just a Computer Science student trying to learn and attempt to code some small things
 
 Currently **learning GitHub** and exploring related inquiries.
