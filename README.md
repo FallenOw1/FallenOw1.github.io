@@ -1,5 +1,4 @@
-![Stars Background](https://cdn.pixabay.com/photo/2016/11/29/03/53/abstract-1868493_960_720.jpg)
-
+![Stars Background](https://images.unsplash.com/photo-1520034475321-cbe63696469a)
 
 # 👨‍💻 Computer Science Student
 
