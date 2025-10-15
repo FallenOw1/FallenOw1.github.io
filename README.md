@@ -1,5 +1,6 @@
 ![Stars Background](https://cdn.pixabay.com/photo/2016/11/29/03/53/abstract-1868493_960_720.jpg)
 
+
 # 👨‍💻 Nothing to see here folks, just a Computer Science student trying to learn and attempt to code some small things
 
 Currently **learning GitHub** and exploring related inquiries.
