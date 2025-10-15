@@ -31,7 +31,7 @@ Was meant to be a business website. I liked how it turned out for how much I red
 
 ### 📂 Random Projects
 
-You can find my random projects in the [Random-Projects](./Random-Projects/) folder.
+You can find my random projects in the [Random Projects](./Non-essential%20items/) folder.
 
 Feel free to explore, contribute, or check out how I'm experimenting with different things!
 
@@ -39,7 +39,7 @@ Feel free to explore, contribute, or check out how I'm experimenting with differ
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FallenOw1&show_icons=true&hide_title=true&hide=prs&count_private=true)
+![GitHub Stats](https://cardio.vercel.app/api?username=FallenOw1&show_icons=true&hide_title=true&hide=prs&count_private=true)
 
 ---
 
