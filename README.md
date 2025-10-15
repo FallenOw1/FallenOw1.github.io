@@ -1,4 +1,4 @@
-![Stars Background](https://cdn.pixabay.com/photo/2016/11/29/03/53/abstract-1868493_960_720.jpg)
+![Stars Background]([https://cdn.pixabay.com/photo/2016/11/29/03/53/abstract-1868493_960_720.jpg](https://github.com/FallenOw1/FallenOw1.github.io/blob/main/Assets/star.jpg?raw=true))
 
 
 # 👨‍💻 Nothing to see here folks, just a Computer Science student trying to learn and attempt to code some small things
@@ -40,7 +40,7 @@ Feel free to explore, contribute, or check out how I'm experimenting with differ
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://cardio.vercel.app/api?username=FallenOw1&show_icons=true&hide_title=true&hide=prs&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&hide=prs)
 
 ---
 
