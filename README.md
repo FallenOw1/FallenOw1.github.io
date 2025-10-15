@@ -11,7 +11,7 @@ Nothing to see here folks, just a Computer Science student trying to learn and a
 ### 🚀 Projects
 - Small Website
 Was meant to be a business website. I liked how it turned out for how much I redid the code.
-
+---
 ### 🔧 What I'm Working On
 - Currently **attempting to make a better GitHub profile**.
 - Adding some projects related to school and personal work.
