@@ -1,5 +1,4 @@
-![Stars Background]([https://cdn.pixabay.com/photo/2016/11/29/03/53/abstract-1868493_960_720.jpg](https://github.com/FallenOw1/FallenOw1.github.io/blob/main/Assets/star.jpg?raw=true))
-
+![Stars Background](https://github.com/FallenOw1/FallenOw1.github.io/blob/main/Assets/star.jpg?raw=true)
 
 # 👨‍💻 Nothing to see here folks, just a Computer Science student trying to learn and attempt to code some small things
 
