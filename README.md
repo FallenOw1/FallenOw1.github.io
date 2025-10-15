@@ -31,7 +31,7 @@ Was meant to be a business website. I liked how it turned out for how much I red
 
 ### 📂 Random Projects
 
-You can find my random projects in the [Random Projects](./Non-essential%20items/) folder.
+You can find my random projects in the [Random Projects](./Non-essential) folder.
 
 Feel free to explore, contribute, or check out how I'm experimenting with different things!
 
