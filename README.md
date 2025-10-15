@@ -25,6 +25,7 @@ Was meant to be a business website. I liked how it turned out for how much I red
 - **Python**
 - **Java**
 - **JavaScript**
+- **Visual Studio Code Environment**
 
 ---
 
