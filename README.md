@@ -1,6 +1,6 @@
 # 💫 About Me:
 Nothing to see here folks, just a Computer Science student trying to learn and attempt to code some small things<br>Currently learning GitHub and exploring related inquiries.<br/>
-~ Side Note: I know it may seem like I’m all over the place—it’s because I am! I tend to pretend that I’ll do more than I actually get around to, so I end up researching various tech-related subjects instead of finishing the projects I originally started. This has left me with a lot of random tech knowledge, but it’s been super helpful in unexpected ways. ~
+~ Side Note: I know it may seem like I’m all over the place it’s because I am! I tend to pretend that I’ll do more than I actually get around to, so I end up researching various tech-related subjects instead of finishing the projects I originally started. This has left me with a lot of random tech knowledge, but it’s been super helpful in unexpected ways. ~
 ---
 
 # 💻 Tech:
